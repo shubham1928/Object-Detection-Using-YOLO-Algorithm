@@ -1,4 +1,4 @@
-# Object Detection with YOLO
+# Object Detection Using YOLO Algorithm
 
 This project implements object detection using the YOLO (You Only Look Once) algorithm, a state-of-the-art real-time object detection system. YOLO is a deep learning-based approach that detects objects in images and videos by dividing them into grids and predicting bounding boxes and class probabilities for each grid.
 
